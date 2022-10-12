@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h3 align="center">Newbie develepor from Turkey</h3>
 
-<p>- 🌱 I’m currently learning **c++,c**</p>
+<p>- 🌱 I’m currently learning c++,c</p>
 
 <p>- 📫 How to reach me **ahmetabdullahcan@outlook.com**</p>
 
