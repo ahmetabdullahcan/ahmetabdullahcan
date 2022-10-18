@@ -2,7 +2,7 @@
 <h3 align="center">Newbie develepor from Turkey</h3>
 
 <p>- 🌱 I’m currently learning c++,c</p>
-<p>I'M Currently Working On [PyQt5 Youtube Downloader](https://github.com/ahnvm/PyQt5-Youtube-Downloader)</p>
+<p>- I'M Currently Working On [PyQt5 Youtube Downloader] (https://github.com/ahnvm/PyQt5-Youtube-Downloader)</p>
 
 <p>- 📫 How to reach me ahmetabdullahcan@outlook.com</p>
 
