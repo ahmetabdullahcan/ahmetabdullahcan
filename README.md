@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
-<h3 align="center">Newbie develepor from Turkey</h3>
+<h3 align="center">Junior develepor from Turkey</h3>
 
 <p>- 🌱 I’m currently learning c++,c</p>
 <p>- I'M Currently Working On [PyQt5 Youtube Downloader] (https://github.com/ahnvm/PyQt5-Youtube-Downloader)</p>
