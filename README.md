@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">Software Developer | Ecole 42 Student</p>
+<p align="center">Game Developer | Ecole 42 Student</p>
 
 ###
 
@@ -34,6 +34,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo" />
 </div>
 
 ###
