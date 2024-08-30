@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">Game Developer | Ecole 42 Student</p>
+<p align="center">Ecole 42 Student</p>
 
 ###
 
