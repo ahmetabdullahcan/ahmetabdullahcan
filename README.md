@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="640" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGk4ODRlNDduNzNpd2RzZjN0aHhhdXRpYWxycDc2NmI3NnA5ZXF3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1ylOHgLDKw7eD8WgoB/giphy.gif"  />
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66d1cff9553501e3c329141b?variant=dark" alt="roadmap.sh"/></a>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahnvm&layout=pie)](https://github.com/ahnvm/github-readme-stats)
 </div>
 
 ###
@@ -34,7 +35,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo" />
 </div>
 
 ###
