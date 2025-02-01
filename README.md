@@ -2,14 +2,14 @@
 
 ### My GitHub Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahnvm&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmetabdullahcan&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" />
 </p>
 
 ---
 
 ### My Top Languages
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnvm&layout=compact&show_icons=true&theme=transparent" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetabdullahcan&layout=compact&show_icons=true&theme=transparent" alt="Top Langs" />
 </p>
 
 ---
