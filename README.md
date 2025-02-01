@@ -13,13 +13,6 @@
 </p>
 
 ---
-### This is my current roadmap
-<p align="center">
-    <a href="https://roadmap.sh">
-        <img src="https://roadmap.sh/card/tall/66d1cff9553501e3c329141b?variant=dark" alt="roadmap.sh" />
-    </a>
-</p>
----
 
 <h1 align="center">Hey 👋 What's up?</h1>
 
