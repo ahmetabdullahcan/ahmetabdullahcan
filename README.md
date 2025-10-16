@@ -1,22 +1,41 @@
----
+# 👋 Hey there! I'm Ahmet Abdullah Can
 
-### My GitHub Stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmetabdullahcan&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" />
-</p>
+🎮 I'm a passionate **Game Developer** who enjoys building interactive experiences and experimenting with gameplay mechanics.  
+I love creating games with both **Unity** and **Godot**, blending creativity with solid programming skills.
 
 ---
 
-### My Top Languages
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetabdullahcan&layout=compact&show_icons=true&theme=transparent" alt="Top Langs" />
-</p>
+## 🧠 About Me
+- 💻 Skilled in **C++**, **C#**, and **GDScript**  
+- 🧩 Experienced with **Unity** and **Godot Engine**  
+- 🎯 Interested in gameplay systems, physics, and clean code architecture  
+- 🌱 Always learning and experimenting with new ideas in game development  
 
 ---
 
-<h1 align="center">Hey What's up?</h1>
-
-<p align="center">Ecole 42 Student</p>
+## 🚀 Projects
+Coming soon — stay tuned for my future game projects! 👀
 
 ---
 
+## 🧰 Tech Stack
+**Languages:** C++, C#, GDScript  
+**Engines:** Unity · Godot  
+**Tools:** Git · VS Code · Aseprite  
+**Focus Areas:** Gameplay Programming · Game Design · Optimization
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmetabdullahcan&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetabdullahcan&layout=compact&theme=tokyonight)
+
+---
+
+## 💬 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmetabdullahcan/)
+- 📧 [ahmetabdullahcan@gmail.com](mailto:ahmetabdullahcan@gmail.com)
+
+---
+
+> “Code is the brush, gameplay is the art.” 🎨
