@@ -28,7 +28,7 @@ Coming soon — stay tuned for my future game projects!
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmetabdullahcan&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetabdullahcan&layout=compact&theme=tokyonight)
+![ahmetabdullahcan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetabdullahcan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
