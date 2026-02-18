@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.metrics }}
+          token: ${{ secrets.METRICS }}
           user: ahmetabdullahcan
           base: ""
           plugin_languages: yes
