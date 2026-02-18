@@ -27,7 +27,7 @@ Coming soon — stay tuned for my future game projects!
 ---
 
 ## GitHub Stats
-
+![Metrics](https://github.com/ahmetabdullahcan/ahmetabdullahcan/blob/main/github-metrics.svg)
 
 ---
 
